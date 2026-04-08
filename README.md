@@ -6,8 +6,7 @@
 
 ## 🌐 Live Demo
 
-<!-- Replace the # below with your deployed URL (e.g. Vercel, Netlify, GitHub Pages) -->
-**(https://wall-calendar-azure.vercel.app/)**
+**[▶ View Live Demo](https://wall-calendar-azure.vercel.app/)**
 
 ---
 
